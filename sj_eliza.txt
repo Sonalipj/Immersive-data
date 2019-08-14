@@ -1,0 +1,9 @@
+#Program for Eliza chatbot
+#print("Good day. What is your name? ")
+message= input("Enter your response here or Q to quit:")
+print("Hello {}". format(message))
+
+while x.find("I am feeling great") != 
+
+while 
+print("You entered" +" " + str(x))
